@@ -1,0 +1,2 @@
+how to make brew git default in mac instead of pre-installed Mac version:
+https://apple.stackexchange.com/questions/93002/how-to-use-the-homebrew-installed-git-on-mac
